@@ -1,9 +1,10 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sydneyleague.github.io" resolutions="1x" timestamp="1492522588742">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sydneyleague.github.io" resolutions="1x" timestamp="1492582083860">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="166148417" ref="index"/>
-    <file name="master_a-master.css" crc="448529843" ref="events"/>
-    <file name="events.css" crc="4171021651" ref="events"/>
+    <file name="index.css" crc="304598155" ref="index"/>
+    <file name="master_a-master.css" crc="4028905831" ref="events:about"/>
+    <file name="events.css" crc="3839806422" ref="events"/>
+    <file name="about.css" crc="410421729" ref="about"/>
   </folder>
   <folder name="fonts">
     <file name="stratumno2-bold-webfont.woff" crc="3766144786"/>
@@ -12,17 +13,17 @@
     <file name="apercu-mono-webfont.eot" crc="354474332"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:events"/>
-    <file name="museutils.js" crc="4148063285" ref="index:events"/>
-    <file name="whatinput.js" crc="86476730" ref="index:events"/>
-    <file name="museconfig.js" crc="172512987" ref="index:events"/>
-    <file name="webpro.js" crc="3986320349" ref="index:events"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:events:about"/>
+    <file name="museutils.js" crc="4148063285" ref="index:events:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:events:about"/>
+    <file name="museconfig.js" crc="172512987" ref="index:events:about"/>
+    <file name="webpro.js" crc="3986320349" ref="index:events:about"/>
     <file name="musewpslideshow.js" crc="405464237" ref="index"/>
     <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
     <file name="touchswipe.js" crc="221459597" ref="index"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index:events"/>
-    <file name="require.js" crc="4159430777" ref="index:events"/>
-    <file name="musewpdisclosure.js" crc="3865010892" ref="events"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:events:about"/>
+    <file name="require.js" crc="4159430777" ref="index:events:about"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="events:about"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -30,8 +31,10 @@
     <file name="sydleague2a-wh.png" crc="202557491" seo="true" ref="index"/>
     <file name="temp.jpg" crc="3864247893" seo="true" ref="index"/>
     <file name="andcs2-sydl-ed.jpg" crc="4292761399" seo="true" ref="index"/>
-    <file name="sydleague2a.png" crc="4283893787" seo="true" ref="events"/>
+    <file name="sydleague2a.png" crc="4283893787" seo="true" ref="events:about"/>
+    <file name="psycah-main1.png" crc="229442432" seo="true" ref="about"/>
   </folder>
-  <file name="index.html" crc="4280874141" seo="true" mt="1492522178682" redirect="true"/>
-  <file name="events.html" crc="3910695116" seo="true" mt="1492522579173" redirect="true"/>
+  <file name="index.html" crc="288350506" seo="true" mt="1492578722286" redirect="true"/>
+  <file name="events.html" crc="4100881857" seo="true" mt="1492582069095" redirect="true"/>
+  <file name="about.html" crc="3989855140" seo="true" mt="1492578717020" redirect="true"/>
 </manifest>
